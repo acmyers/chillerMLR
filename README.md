@@ -25,8 +25,3 @@ Data set:
 For more information, check out my other repositories (chillerDataVisual, system_optimization, 
 and vsdEfficiency) and the Google Whitepaper 'Machine Learning Applications for Data Center 
 Optimization' by Jim Gao.
-
-Note: look out for "Warning: Desired error not necessarily achieved due to precision loss."
-This may be due to random sampling to obtain the training data set.  All you need to do is
-re-run the analysis and the warning should go away.  The proper output should say
-"Optimization terminated successfully."
